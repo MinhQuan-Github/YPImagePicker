@@ -23,6 +23,10 @@ public struct YPColors {
     /// Default is nil, which is default iOS black.
     public var navigationBarCancelColor: UIColor?
     
+    /// A color for navigation bar next button.
+    /// Default is nil, which is default iOS black.
+    public var navigationBarNextColor: UIColor?
+    
     /// A color for circle for selected items in multiple selection
     /// Default is nil, which takes tintColor.
     public var multipleItemsSelectedCircleColor: UIColor?
